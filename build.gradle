@@ -20,6 +20,10 @@ checkstyle {
     toolVersion = '8.29'
 }
 
+jacoco {
+    toolVersion = "0.8.5"
+}
+
 test {
     useJUnitPlatform()
     finalizedBy jacocoTestReport
