@@ -7,7 +7,6 @@ title: Developer Guide
 
 --------------------------------------------------------------------------------------------------------------------
 <div style="page-break-after: always;"></div>
-
 ## **Introduction**
 
 ### Purpose 
